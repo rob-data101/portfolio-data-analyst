@@ -16,6 +16,6 @@ Pour chaque projet, vous trouverez le contexte, ma démarche, les résultats chi
 
 | # | Projet | Résultat clé | Outils |
 |---|---|---|---|
-| 1 | [**Rapport marketing mensuel d'un e-commerce**](01-rapport-marketing-excel/) | Baisse du CA expliquée par l'arrêt du high-tech et une conversion divisée par 2 ; tableau de bord Excel des clients affiliés | Excel, TCD, storytelling |
+| 1 | [**Rapport marketing mensuel d'un e-commerce**](01-rapport-marketing-excel/) | Baisse du CA expliquée par l'arrêt du high-tech et une conversion divisée par 2 ; tableau de bord Excel des clients affiliés · *« Excellente soutenance » (jury)* | Excel, TCD, storytelling |
 
 <!-- 📫 Contact : ajouter le lien LinkedIn ici -->

@@ -35,7 +35,17 @@
 - ⏱️ Un achat réalisé en **plus de 9 min 30** rapporte en moyenne **83 €**, contre **33 €** pour un achat en moins de 4 minutes.
 - 👥 660 achats pour 66 clients affiliés. Le meilleur client a dépensé 1 510 € sur le mois.
 
-<!-- 🎥 Soutenance : ajouter ici le lien de la vidéo -->
+## 🏅 Retour du jury
+
+✅ **Les 2 compétences évaluées sont validées** : concevoir des graphiques adaptés et accessibles, et proposer un récit des résultats avec des procédés narratifs.
+
+> « Excellente soutenance. L'étudiant s'est très bien approprié le contexte et s'est réellement mis dans la peau du personnage attendu dans le cadre de la mission, ce qui a rendu la présentation particulièrement convaincante et professionnelle. »
+
+> « L'étudiant ne se contente pas de présenter successivement des graphiques : il construit un véritable fil conducteur. […] Les transitions entre les différents graphiques sont particulièrement réussies. »
+
+> « Le discours est suffisamment vulgarisé pour être compris par un interlocuteur non spécialiste de l'analyse de données. »
+
+<!-- 🎥 Soutenance : ajouter ici le lien de la vidéo (YouTube non répertorié) -->
 
 ---
 
